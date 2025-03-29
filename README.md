@@ -18,7 +18,7 @@
 ~취소선~
 
 ```Python
-print(Hello world!)
+print("Hello world!")
 ```
 
 [민의 기술블로그](https://lifeisco-ol.tistory.com/)
